@@ -1,0 +1,15 @@
+
+# string sclicing
+mystr="Harry is a good boy"
+print(mystr)
+# calculate length of string
+print(len(mystr))
+
+print(mystr[0:])
+print(mystr[:5])
+print(mystr[0:5:2])
+print(mystr[:])
+print(mystr[::])
+print(mystr[::2])
+print(mystr[:-4])
+print(mystr[::-2])
